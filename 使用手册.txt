@@ -1,0 +1,3 @@
+1.安装scipy,pandas,tensorflow,cv2,numpy,tkinter,time等库
+2.在main.py文件中，把model='C:/Users/Admin/Desktop/基于MTCNN的人脸检测与识别系统/model/20170512-110547/'改成你存放的位置
+3.双击main.py即可运行
