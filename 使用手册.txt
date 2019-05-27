@@ -1,3 +1,7 @@
-1.°²×°scipy,pandas,tensorflow,cv2,numpy,tkinter,timeµÈ¿â
-2.ÔÚmain.pyÎÄ¼şÖĞ£¬°Ñmodel='C:/Users/Admin/Desktop/»ùÓÚMTCNNµÄÈËÁ³¼ì²âÓëÊ¶±ğÏµÍ³/model/20170512-110547/'¸Ä³ÉÄã´æ·ÅµÄÎ»ÖÃ
-3.Ë«»÷main.py¼´¿ÉÔËĞĞ
+1.å®‰è£…scipy,pandas,tensorflow,cv2,numpy,tkinter,timeç­‰åº“
+2.åœ¨main.pyæ–‡ä»¶ä¸­ï¼ŒæŠŠmodel='C:/Users/Admin/Desktop/åŸºäºMTCNNçš„äººè„¸æ£€æµ‹ä¸è¯†åˆ«ç³»ç»Ÿ/model/20170512-110547/'æ”¹æˆä½ å­˜æ”¾çš„ä½ç½®
+3.é“¾æ¥ï¼šhttps://pan.baidu.com/s/1JmH8XRwPozukv5J4rxsGOw 
+  æå–ç ï¼šgsqt 
+  å¤åˆ¶è¿™æ®µå†…å®¹åæ‰“å¼€ç™¾åº¦ç½‘ç›˜æ‰‹æœºAppï¼Œæ“ä½œæ›´æ–¹ä¾¿å“¦
+  å°†ç½‘ç›˜é‡Œé¢çš„4ä¸ªæ–‡ä»¶å¤åˆ¶åˆ°/model/20170512-110547/ä¸‹
+4.åŒå‡»main.pyå³å¯è¿è¡Œ
